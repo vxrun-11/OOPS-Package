@@ -1,0 +1,4 @@
+Name	Age	Disease
+Kumar	54	Jaundice
+Suresh	45	Diabetes
+Anand	34	Cancer
